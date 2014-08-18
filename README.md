@@ -1,4 +1,4 @@
 Mathematical-Models
 ===================
 
-OpenSCAD and PovRAY scripts to generate objects.
+OpenSCAD and POV-Ray scripts to generate objects.
